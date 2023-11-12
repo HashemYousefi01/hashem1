@@ -17,10 +17,10 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
-# Netlist files (exported from Eeschema)
+# Netlist files (exported from Eeschema)  //kicad.org/help/file-formats/
 *.net
 
-# Autorouter files (exported from Pcbnew)
+# Autorouter files (exported from Pcbnew) //kicad.org/help/file-formats/
 *.dsn
 *.ses
 
